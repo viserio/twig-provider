@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace Viserio\Provider\Twig\Proxie;
+namespace Viserio\Provider\Twig\Proxy;
 
 use Twig\Environment as TwigEnvironment;
 use Viserio\Component\StaticalProxy\StaticalProxy;
